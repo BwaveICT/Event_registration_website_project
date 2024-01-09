@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>All user inputs</h1>
+
+    {% for registration in registrations %}
+<div>
+    <h2> {{ registration.first_name}} {{ registration.last_name }} </h2>
+    <p> {{registration.email}} </p>
+    <p> {{registration.contact_no}} </p>
+    <p>Unique Code: {{ registration.unique_code }}</p>
+
+</div>
+<hr>
+{% endfor %}
+</body>
+</html>
