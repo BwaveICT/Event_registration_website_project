@@ -34,7 +34,7 @@ The project follows a step-by-step development process, incorporating various te
 
 ## Tutorial
 
-This project was built incrementally, introducing different technologies at each step. Follow the detailed tutorial to learn full-stack web development. The link to the tutorial is [provided here](https://chat.whatsapp.com/BsKNmAQbiQlE3Kr928d47X).
+This project was built incrementally, introducing different technologies at each step. Follow the detailed tutorial to learn full-stack web development. The link to the tutorial is provided below
 
 ## Link to the tutorial of this project: https://youtu.be/S--IRWxD0To
 
